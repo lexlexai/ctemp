@@ -1,0 +1,10 @@
+git
+gcc
+clang-format-18
+gcover
+make
+vim
+tmux
+gdb
+valgrind
+
